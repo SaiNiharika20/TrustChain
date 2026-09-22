@@ -1,0 +1,6 @@
+{
+  "name": "TrustChain",
+  "description": "Supply Chain Fraud Detection Using Machine Learning and Blockchain verification for tamper-proof transaction records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

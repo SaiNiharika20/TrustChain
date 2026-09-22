@@ -1,0 +1,26 @@
+transaction_id,product_id,quantity,location,timestamp,supplier_details,manufacturer,distributor,retailer,price,risk_score,fraud_label
+TX-2026-1001,PRD-PHARMA-01,1200,Berlin-Hub-DE,2026-03-01T08:30:00Z,BioMed Global Logistics,Apex Pharma GmbH,TransEuro Cargo,Metropolis Pharmacy,24000,0.12,0
+TX-2026-1002,PRD-SEMI-88,4500,Taipei-Port-TW,2026-03-01T09:15:00Z,Silicon Crest Components,TSMC Fab 18,Pacific Freight,NexGen Electronics,135000,0.08,0
+TX-2026-1003,PRD-LUXURY-09,95000,Unknown-Freeport-Offshore,2026-03-01T11:45:00Z,Shadowline Trading Ltd,Unregistered Atelier,Phantom Express,Discount Luxury Vault,4500,0.92,1
+TX-2026-1004,PRD-AGRI-40,800,Valencia-Agro-ES,2026-03-02T07:10:00Z,Iberian Organics SL,Valencia Grove Co,Iberia Fresh Route,Mercado Central,3200,0.05,0
+TX-2026-1005,PRD-AUTO-55,350,Detroit-Assembly-US,2026-03-02T13:20:00Z,MotorCity Precision Parts,Great Lakes Casting,Midwest Logistics,Ford River Rouge,52500,0.14,0
+TX-2026-1006,PRD-PHARMA-01,85000,Unverified-Warehouse-XX,2026-03-02T15:40:00Z,Apex Counterfeit Brokers,Mock Bio Labs,Ghost Air Lines,Grey Market Direct,8500,0.89,1
+TX-2026-1007,PRD-AERO-12,45,Toulouse-Aerospace-FR,2026-03-03T09:05:00Z,AeroTitanium Alloys,Airbus Material Div,DHL Global Heavy,Assembly Plant 4,112500,0.06,0
+TX-2026-1008,PRD-ELEC-22,6000,Shenzhen-Zone-CN,2026-03-03T10:30:00Z,Shenzhen MicroTech Ltd,Foxconn Industrial,COSCO Shipping,BestBuy Global,48000,0.11,0
+TX-2026-1009,PRD-FOOD-77,15000,Rotterdam-Port-NL,2026-03-03T14:15:00Z,Nordic Dairy Export,Arla Foods Group,Maersk Logistics,Albert Heijn Super,37500,0.07,0
+TX-2026-1010,PRD-AUTO-55,125000,Border-Holding-Facility,2026-03-04T02:30:00Z,FlyByNight Auto Spares,Substandard Foundry,QuickHaul LLC,Bargain Auto Barn,12000,0.95,1
+TX-2026-1011,PRD-TEXT-33,2800,Dhaka-Export-BD,2026-03-04T08:00:00Z,Bengal Weavers Consortium,Dhaka Apparel Works,Evergreen Marine,Zara Distribution Hub,19600,0.15,0
+TX-2026-1012,PRD-CHEM-90,500,Ludwigshafen-Hub-DE,2026-03-04T11:20:00Z,BASF Specialty Chem,BASF SE,Kuehne+Nagel Rail,Nordic Plastics AB,75000,0.09,0
+TX-2026-1013,PRD-SEMI-88,90000,HighRisk-Border-Transit,2026-03-05T01:10:00Z,Bogus Silicon Traders,Unlicensed Chipper,DarkRoute Courier,FlyByNight Tech Store,9000,0.91,1
+TX-2026-1014,PRD-MED-14,420,Tokyo-Health-JP,2026-03-05T07:45:00Z,Nippon Precision Medical,Terumo Corp,Yamato Transport,Tokyo Univ Hospital,84000,0.04,0
+TX-2026-1015,PRD-ENERGY-03,12000,Houston-Refinery-US,2026-03-05T12:00:00Z,Gulf Energy Dynamics,ExxonMobil Pipeline,Kinder Morgan Logistics,Midwest Power Grid,180000,0.08,0
+TX-2026-1016,PRD-FOOD-77,75000,Unregulated-Dock-Zone,2026-03-06T03:50:00Z,Spoiled Goods Liquidation,Expired Food Re-baggers,Unmarked Trucking,Discount Wholesale Mart,3000,0.88,1
+TX-2026-1017,PRD-AERO-12,50,Seattle-Boeing-US,2026-03-06T09:30:00Z,Pacific Aero Forge,Boeing Tier 1,FedEx Custom Critical,Everett Plant,125000,0.05,0
+TX-2026-1018,PRD-PHARMA-01,980,Basel-LifeScience-CH,2026-03-06T14:20:00Z,Novartis Alpine Supply,Novartis Pharma AG,Swiss Post Secure,St. Gallen Clinic,19600,0.03,0
+TX-2026-1019,PRD-LUXURY-09,120,Milan-Fashion-IT,2026-03-07T10:00:00Z,Lombardy Leatherworks,Gucci Group Supply,Ferrari Express,Via Montenapoleone,144000,0.06,0
+TX-2026-1020,PRD-ELEC-22,85000,Customs-RedFlag-Yard,2026-03-07T16:45:00Z,Clone Circuitry Syndicate,Counterfeit IC Lab,BlackBox Freight,E-Commerce Warehouse,4200,0.94,1
+TX-2026-1021,PRD-SEMI-88,3200,Austin-Fab-US,2026-03-08T08:15:00Z,LoneStar Silicon Supply,Samsung Austin Semi,UPS Freight Air,Tesla Giga Texas,96000,0.07,0
+TX-2026-1022,PRD-AGRI-40,1100,SaoPaulo-Agro-BR,2026-03-08T11:30:00Z,Cerrado Soya Harvest,Amaggi Group,Rumo Logistica,Santos Grain Terminal,4400,0.06,0
+TX-2026-1023,PRD-MED-14,50000,Unlicensed-Storage-Area,2026-03-08T22:10:00Z,Sterile Breach Resellers,Unknown Maker,Unmonitored Van,Bargain Medical Hub,5000,0.90,1
+TX-2026-1024,PRD-AUTO-55,410,Stuttgart-Auto-DE,2026-03-09T09:40:00Z,Baden-Tech Drivetrain,Mercedes-Benz Werk,DB Schenker,Sindelfingen Factory,61500,0.04,0
+TX-2026-1025,PRD-TEXT-33,3100,Hanoi-Garment-VN,2026-03-09T13:05:00Z,Red River Textile Mill,Vinatex Industrial,Ocean Network Express,Uniqlo Regional Hub,21700,0.10,0
